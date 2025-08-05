@@ -6655,15 +6655,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"api@workspace:api":
-  version: 0.0.0-use.local
-  resolution: "api@workspace:api"
-  dependencies:
-    "@redwoodjs/api": "npm:8.8.0"
-    "@redwoodjs/graphql-server": "npm:8.8.0"
-  languageName: unknown
-  linkType: soft
-
 "apollo-upload-client@npm:18.0.1":
   version: 18.0.1
   resolution: "apollo-upload-client@npm:18.0.1"
